@@ -1,2 +1,2 @@
 # week-4-game
-Games
+Games for fun
